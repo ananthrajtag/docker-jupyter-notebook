@@ -1,4 +1,4 @@
-k8spythonpipeline {
+k8snpmpipeline {
 
      BUILD_TOOL = 'npm'
 

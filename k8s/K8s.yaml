@@ -95,9 +95,9 @@ spec:
   externalTrafficPolicy: Cluster
   ports:
   - name: http
-    port: 8888
+    port: 5000
     protocol: TCP
-    targetPort: 8888
+    targetPort: 5000
   selector:
     app: {app_name}
     env: {env}

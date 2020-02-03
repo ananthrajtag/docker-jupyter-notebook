@@ -1,0 +1,47 @@
+week,category,priority,Actual_hours,Actual_Resources,Predicted_hours,Predicetd_Resources
+2018-11-26,Other,3 - Moderate,0,0,0,0
+2018-11-19,Business Service,4 - Low,2613,326,2501,312
+2018-11-19,Business Service,2 - High,18,2,16,2
+2018-11-19,Business Service,3 - Moderate,1162,145,1128,141
+2018-11-19,Business Service,5 - Scheduled SLA,249,31,220,27
+2018-11-19,Business Service,1 - Critical,1,0,1,0
+2018-11-19,Other,4 - Low,1255,156,1262,157
+2018-11-19,Other,2 - High,107,13,100,12
+2018-11-19,Other,3 - Moderate,464,58,511,63
+2018-11-19,Other,5 - Scheduled SLA,1071,133,1028,128
+2018-11-19,Other,1 - Critical,0,0,0,0
+2018-11-19,Applications,4 - Low,1158,144,1128,141
+2018-11-19,Applications,2 - High,1,0,1,0
+2018-11-19,Applications,3 - Moderate,233,29,220,27
+2018-11-19,Applications,5 - Scheduled SLA,8,1,8,1
+2018-11-19,Applications,1 - Critical,0,0,0,0
+2018-11-19,Desktop Systems,4 - Low,1420,177,1433,179
+2018-11-19,Desktop Systems,2 - High,0,0,0,0
+2018-11-19,Desktop Systems,3 - Moderate,75,9,70,8
+2018-11-19,Desktop Systems,5 - Scheduled SLA,188,23,174,21
+2018-11-19,Desktop Systems,1 - Critical,0,0,0,0
+2018-11-19,Printers,4 - Low,336,42,318,39
+2018-11-19,Printers,2 - High,0,0,0,0
+2018-11-19,Printers,3 - Moderate,111,13,120,15
+2018-11-19,Printers,5 - Scheduled SLA,0,0,0,0
+2018-11-19,Printers,1 - Critical,0,0,0,0
+2018-11-19,Database Instances,4 - Low,0,0,0,0
+2018-11-19,Database Instances,2 - High,0,0,0,0
+2018-11-19,Database Instances,3 - Moderate,0,0,0,0
+2018-11-19,Database Instances,5 - Scheduled SLA,0,0,0,0
+2018-11-19,Database Instances,1 - Critical,0,0,0,0
+2018-11-19,Network,4 - Low,48,6,48,6
+2018-11-19,Network,2 - High,72,9,70,8
+2018-11-19,Network,3 - Moderate,0,0,0,0
+2018-11-19,Network,5 - Scheduled SLA,2,0,2,0
+2018-11-19,Network,1 - Critical,0,0,0,0
+2018-11-19,Windows Servers,4 - Low,0,0,0,0
+2018-11-19,Windows Servers,2 - High,0,0,0,0
+2018-11-19,Windows Servers,3 - Moderate,0,0,0,0
+2018-11-19,Windows Servers,5 - Scheduled SLA,0,0,0,0
+2018-11-19,Windows Servers,1 - Critical,0,0,0,0
+2018-11-19,Clusters,4 - Low,0,0,0,0
+2018-11-19,Clusters,2 - High,0,0,0,0
+2018-11-19,Clusters,3 - Moderate,1,0,1,0
+2018-11-19,Clusters,5 - Scheduled SLA,0,0,0,0
+2018-11-19,Clusters,1 - Critical,0,0,0,0

@@ -1,7 +1,7 @@
 import pandas as pd
 import io
 import matplotlib.pyplot as plt
-import seaborn as sns
+#import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import mean_squared_error
 from math import sqrt

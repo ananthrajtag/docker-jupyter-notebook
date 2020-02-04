@@ -14,7 +14,8 @@ app = Flask(__name__)
 #dataset.shape
 @app.route('/getWeeklyReports/', methods=["GET"])
 def get_weekly_hours():
-    dataset = pd.read_csv('C:\\Users\\Priya\\Desktop\\Sivisoft\\Time Model\\weekly_hours_spent.csv') 
+    #dataset = pd.read_csv('C:\\Users\\Priya\\Desktop\\Sivisoft\\Time Model\\weekly_hours_spent.csv')
+    dataset = pd.read_csv('./weekly_hours_spent.csv')  
     dataset = dataset.to_dict('list')
     return jsonify(dataset)
 @app.route("/")
